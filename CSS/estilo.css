@@ -1,7 +1,33 @@
 
+.title{
 
-/*comentario em CSS */
-h2{font-size: 55px;
-color: chocolate;}
+    font-weight: 400;
+    font-size: 50px;
+   
+}
 
-h3 {font-size: 20px;}
+#principais-estilos{
+
+
+    background-color: black;
+    color: antiquewhite;
+    font-size: 40px;
+    padding: 20px;
+    margin: 20px 50px;
+
+}
+
+#principais-estilos .paragrafo {
+
+    font-family: 4px;
+    color: rgb(47, 173, 95);
+    line-height: 50px;
+    font-family:monospace;
+}
+
+.title{
+
+    font-weight: 400;
+    font-size: 50px;
+   
+}
